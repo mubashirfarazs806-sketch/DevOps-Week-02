@@ -1,34 +1,24 @@
-# DevOps Week 2
+## Week 2 Hands-on Activity
 
-## Project Overview
+### Feature Branches
 
-This project was created as part of the DevOps Internship Week 2 practical activity.
+Two feature branches were created:
 
-## Topics Covered
+- feature-ui
+- feature-docker
 
-- Git
-- GitHub
-- Git Workflow
-- Branching
-- Merging
-- Rebase
-- Pull Requests
-- .gitignore
-- Team Collaboration
+### Feature UI
 
-## Project Files
+The feature-ui branch was used to update the HTML page.
 
-- index.html
-- Dockerfile
-- deploy.sh
-- app.conf
-- requirements.txt
-- .gitignore
+### Feature Docker
 
-## Objective
+The feature-docker branch was used to improve the Docker configuration.
 
-The objective of this project is to practice Git and GitHub collaboration workflows used in DevOps environments.
+### Pull Requests
 
-## Author
+Pull Requests were created on GitHub to review and merge the feature branches into main.
 
-Mubashir Faraz S
+### Final Status
+
+Both feature branches were successfully merged into the main branch.
